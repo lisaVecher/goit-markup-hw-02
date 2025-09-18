@@ -109,6 +109,8 @@ ul {
   cursor: pointer;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  font-weight: 500;
+  color: #ffffff;
 }
 
 .section-one-button:hover {
@@ -155,7 +157,7 @@ ul {
   text-transform: capitalize;
 }
 
-.our-team-mark {
+.our-team-list-item {
   background-color: #ffffff;
 }
 .our-team-employee-name {
@@ -212,7 +214,7 @@ footer {
   color: #f4f4fd;
 }
 
-.logo-title-footer {
+.logo-title-studio-footer {
   line-height: 1.1;
   letter-spacing: 0.03em;
   text-transform: uppercase;
