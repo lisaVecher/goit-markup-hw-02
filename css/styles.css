@@ -15,6 +15,17 @@ body {
   color: #4d5ae5;
 }
 
+.logo-title-studio {
+  line-height: 1.1;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 18px;
+  color: #2e2f42;
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+}
+
 .logo-title-go {
   line-height: 1.16667;
   letter-spacing: 0.03em;
@@ -25,17 +36,17 @@ body {
   color: #2e2f42;
 }
 
-.navigation-link-studio:focus {
+.navigation-link-go:focus {
   color: #404bbf;
   text-decoration: underline;
 }
 
-.navigation-link-studio:hover {
+.navigation-link-go:hover {
   color: #404bbf;
   text-decoration: underline;
 }
 
-.navigation-link-studio {
+.navigation-link-go {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -43,24 +54,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-decoration: none;
-}
-.navigation-link {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  color: #2e2f42;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  text-decoration: none;
-}
-
-.navigation-link:hover {
-  text-decoration: underline;
-  color: #404bbf;
-}
-
-.navigation-link:active {
-  color: #404bbf;
 }
 
 ul {
